@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[securityweek.com](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)",
+    "[thepitstop.ai](https://thepitstop.ai/blog/state-of-agent-security-2026)",
+    "[venturebeat.com](https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure)",
+    "[darkreading.com](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[ecommercenews.com.au](https://ecommercenews.com.au/)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_layout; AIDA=pass; hero_math=2.3_lines@1120px; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors named; button_contrast=black/white pills pass",
+  "generated_at": "2026-07-01T13:09:53.695261+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion-focused niche landing page for ecommerce operators who live inside order dashboards, inboxes, and support tools. The page ties current evidence about agentic AI, computer use, and security risk to daily ecommerce workflows, then positions Super as the sharper alternative: a personal AI agent that actually operates computers and reuses a computer-use cache so repeated admin gets faster and cheaper over time."
+}
